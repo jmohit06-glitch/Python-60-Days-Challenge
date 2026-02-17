@@ -9,7 +9,12 @@ The codes are organized by days to keep everything structured:
 
 📦 Python-60-Days-Challenge
 
- | DAY - 1
+ | DAY - 1 | User Profile Validation System
+ | DAY - 2 | Smart ID & Credential Validator
+ | DAY - 3 | Student Performance Analyzer
+ | DAY - 4 | Cyber Activity Risk Analyzer “Personalized Security Engine”
+ | DAY - 5 | Emergency Resource Dispatch Analyzer
+ 
  
 (I will update this table as I progress through the weeks.)
 
